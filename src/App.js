@@ -3,7 +3,7 @@ import store from './store';
 import { Helmet, HelmetProvider } from 'react-helmet-async';
 import { Provider } from 'react-redux';
 
-import AnimatedRoutes from 'Routes';
+import AnimatedRoutes from 'Routes' ;
 
 
 function App() {
